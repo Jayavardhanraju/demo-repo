@@ -1,5 +1,6 @@
 ##Demo
 
 this is a demo file for github basics
-commit no 2
+commit no 2.
+Added new line.
 just updating the readme.md file
